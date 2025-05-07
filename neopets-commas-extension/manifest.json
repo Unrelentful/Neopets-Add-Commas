@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Neopets Comma Formatter",
+  "description": "Automatically adds commas to Neopets numeric inputs without changing the value. (Bank, Shop Till, and Trading Post.)",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+   {
+     "matches": ["*://www.neopets.com/bank.phtml"],
+     "js": ["bank.js"]
+   },
+   {
+	 "matches": ["*://www.neopets.com/market.phtml?type=till"],
+	 "matches": ["*://www.neopets.com/island/tradingpost.phtml"],
+     "js": ["content.js"]
+   }
+ ]
+}
