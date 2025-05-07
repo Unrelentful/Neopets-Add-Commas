@@ -3,7 +3,7 @@
 Step 1: Install 'TamperMonkey' Extension on Chrome from either the App Store or the Extension's Website; I used App Store.
 Step 2: Copy the Github Download Link, open VirusTotal.com, and scan for viruses. (Doesn't hurt to get in the practice of visiting VirusTotal.)
 Step 3: Download my Neopets Comma Extension. (For Chrome ONLY at this time.)
-Step 4: ... to be continued...
+Step 4: ...to be continued...
 
 When looking at the manifest.json file, you can see which pages the extension works on.
 
