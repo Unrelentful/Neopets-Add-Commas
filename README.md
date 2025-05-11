@@ -1,4 +1,4 @@
-~!!!~ Personally, I ALWAYS use VirusTotal.com to scan links and files before clicking/downloading.
+!!! Personally, I ALWAYS use VirusTotal.com to scan links and files before clicking/downloading.
 
 Step 1: Install 'TamperMonkey' Extension on Chrome from either the App Store or the Extension's Website; I used App Store.
 Step 2: Copy the Github File ZIP Download Link, open VirusTotal.com, and scan the URL for viruses.
